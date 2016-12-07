@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background-image: url('http://estiben.neocities.org/colorful-universe-twitter-background.jpg') repeat left top;
+  background color: #202020 repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
