@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background-color: yellow;
+  background: #202024 url('https://s-media-cache-ak0.pinimg.com/originals/ad/ae/fa/adaefad62a3280a740639136da3f90ef.jpg') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
