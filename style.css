@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background-image:url('http://estiben.neocities.org/colorful-universe-twitter-background.jpg') repeat left top;
+  background-image: url('http://estiben.neocities.org/colorful-universe-twitter-background.jpg') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://i.imgur.com/Ff6a9mL.jpg'); 
+  background-image: url(''); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
