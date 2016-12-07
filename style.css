@@ -8,7 +8,7 @@ body {
 
 /* Initial menu */
 .menu {
-  background: #202024 url('http://i.imgur.com/Ff6a9mL.jpg') repeat left top;
+  background: #202024 url('http://www.scientificjam.com/scijamsongs/stars.jpg') repeat left top;
   left: -285px;  /* start off behind the scenes */
   height: 100%;
   position: fixed;
@@ -18,7 +18,7 @@ body {
 /* Basic styling */
 
 .jumbotron {
-  background-image: url('http://smashingyolo.com/wp-content/uploads/2014/05/Best-Website-Background-Images4.jpg'); 
+  background-image: url('http://i.imgur.com/Ff6a9mL.jpg'); 
   height: 100%;
   -webkit-background-size: cover;
      -moz-background-size: cover;
